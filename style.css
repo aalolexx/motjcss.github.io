@@ -605,6 +605,9 @@ footer .logo img {
     clear: both;
 }
 
+.code-holder {
+    position: absolute;bottom: 0;right: 0; height: 100%;
+}
 
 /* Responsive -------------------------- */
 @media (max-width: 959px){
@@ -624,6 +627,12 @@ footer .logo img {
         height: auto;
         width: auto;
         padding: 65px 0 48px;
+    }
+    body .code-holder {
+        display: block;
+        height: auto;
+        width: auto;
+        position: static;
     }
     .promo-title {
         font-size: 40px;
