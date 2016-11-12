@@ -185,8 +185,7 @@ body {
 }
 .wrap {
     margin: 0 auto;
-    max-width: 940px;
-    padding: 0 30px;
+    padding: 2em;
 }
 a {
     color: #26a6d1;
@@ -235,7 +234,7 @@ img {
 
 /* header -------------------------- */
 header {
-    padding: 69px 0;
+    padding: 1em;
 }
 header .logo {
     float: left;
@@ -348,7 +347,7 @@ footer .logo img {
     margin: 8px 0;
 }
 .copy a {
-    color: #3db39e;
+    color: #aa71d6;
     font-weight: bold;
 }
 .copy a:hover {
@@ -371,7 +370,7 @@ footer .logo img {
     margin: 0 60px 16px;
 }
 .promo {
-    background: #3db39e;
+    background: #aa71d6;
     color: #ffffff;
 }
 .promo .wrap {
@@ -484,7 +483,7 @@ footer .logo img {
     transition: all 0.15s linear;
 }
 .feature:hover h4:after {
-    background-color: #3db39e;
+    background-color: #aa71d6;
 }
 .ico-help,
 .ico-like,
@@ -542,7 +541,7 @@ footer .logo img {
 }
 .tab li.active {
     cursor: default;
-    background-color: #3db39e;
+    background-color: #aa71d6;
 }
 .box {
     display: none;
