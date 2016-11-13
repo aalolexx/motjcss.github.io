@@ -1,0 +1,15 @@
+{
+  "name": "motjcompiler",
+  "version": "1.0.1",
+  "description": "comipler for .mcss code",
+  "main": "motj.js",
+  "dependencies": {
+    "nodejs": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "motjcss",
+  "license": "ISC"
+}
