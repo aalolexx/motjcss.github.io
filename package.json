@@ -11,5 +11,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "motjcss",
-  "license": "ISC"
+  "license": "ISC", "dependencies": {
+    "mathjs": "*",
+    "nodejs": "*",
+    "chalk": "*"
+  }
 }
